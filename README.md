@@ -1,9 +1,13 @@
-# broccoli-favicon
+# @gorner/broccoli-favicon
 
+<!--
 [![Build Status](https://travis-ci.org/davewasmer/broccoli-favicon.svg?branch=master)](https://travis-ci.org/davewasmer/broccoli-favicon)
 [![Dependency Status](https://david-dm.org/davewasmer/broccoli-favicon.svg)](https://david-dm.org/davewasmer/broccoli-favicon.svg)
+-->
 
-Takes a single `favicon.png` and outputs various sizes and file formats for favicons for different platforms and devices. Uses [`favicons`](https://github.com/haydenbleasel/favicons), see that projects documentation for details on the full range of support favicon generation.
+Fork of @davewasmer's [`broccoli-favicon`](https://github.com/davewasmer/broccoli-favicon) that has been updated for `favicons` v7.
+
+Takes a single `favicon.png` and outputs various sizes and file formats for favicons for different platforms and devices. Uses [`favicons`](https://github.com/haydenbleasel/favicons), see that project's documentation for details on the full range of support favicon generation.
 
 ## Usage
 

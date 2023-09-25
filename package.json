@@ -1,6 +1,6 @@
 {
-  "name": "broccoli-favicon",
-  "version": "3.0.0",
+  "name": "@gorner/broccoli-favicon",
+  "version": "4.0.0-alpha.1",
   "description": "Generate favicons and HTML using Favicons package",
   "main": "dist/index.js",
   "scripts": {
@@ -17,19 +17,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/davewasmer/broccoli-favicon"
+    "url": "https://github.com/gorner/broccoli-favicon"
   },
   "keywords": [
     "broccoli",
     "plugin",
     "favicons"
   ],
-  "author": "Dave Wasmer",
+  "contributors": [
+    "Dave Wasmer"
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/davewasmer/broccoli-favicon/issues"
+    "url": "https://github.com/gorner/broccoli-favicon/issues"
   },
-  "homepage": "https://github.com/davewasmer/broccoli-favicon",
+  "homepage": "https://github.com/gorner/broccoli-favicon",
   "files": [
     "dist/",
     "!dist/tests"
